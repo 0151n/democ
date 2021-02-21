@@ -1,2 +1,2 @@
-#democ
+# democ
 
